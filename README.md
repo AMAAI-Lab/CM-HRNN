@@ -12,6 +12,9 @@ Guo Z, Makris D., Herremans D..  2021.  [Hierarchical Recurrent Neural Networks 
 
 ## Getting Started
 
+### Results and data format
+Kindly check the result demo folder for the generated results. For input data format check the npy files in the result demo folder. 
+
 ### Dependencies
 
 * tensorflow 1.14
@@ -21,7 +24,7 @@ Guo Z, Makris D., Herremans D..  2021.  [Hierarchical Recurrent Neural Networks 
 
 ### Getting started
 
-* Training script: run_**.s; Generation script: generate_**.sh; Evaluation script: comp_successbar_ratio.py
+* Training script: run_xx.sh; Generation script: generate_xx.sh; Evaluation script: comp_successbar_ratio.py
 * 2t_fc: 2 tier without acc. time info;
 * 3t_fc: 3 tier without acc. time info;
 * adrm2t_fc: 2 tier with acc. time info;
